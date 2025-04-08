@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tecnologías visuales:
+### 🛠️ Tecnologías :
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
@@ -47,7 +47,7 @@
 
 ---
 
-### 🎓 Formación complementaria
+### 🎓 Cursos
 
 - Certificación en Ciberseguridad - Google (2024-2025)  
 - Cloud Foundations - AWS Academy (2025)  
